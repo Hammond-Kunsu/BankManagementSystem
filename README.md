@@ -127,7 +127,7 @@ Password encryption
 Online banking API integration
 Automated testing
 
-##Author
+#Author
 
 Kunsu Hammond Tietaa
 
